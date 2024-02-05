@@ -61,19 +61,6 @@ yarn <script-name>
 npm run <script-name>
 ```
 
-Dependencies
-The project relies on the following dependencies:
-
-@reduxjs/toolkit: State management library for React applications.<br>
-react: JavaScript library for building user interfaces.<br>
-react-dom: React package for working with the DOM.<br>
-react-redux: Official React bindings for Redux.<br>
-redux: State container for JavaScript applications.<br>
-semantic-ui-css: CSS files for Semantic UI styling.<br>
-semantic-ui-react: React components for Semantic UI.<br>
-gh-pages: Deployment tool for publishing GitHub Pages.<br>
-
-Make sure to install these dependencies before running the application.
 
 ### `yarn build`
 
