@@ -28,7 +28,8 @@ function Popup () {
     };
 
     return (
-        <div className="h-fit w-[90vw] max-w-sm	 bg-gradient-to-b from-[#1F2630] to-[#171E28] rounded-3xl p-6">
+        <div className="h-fit w-[90vw] max-w-sm	 bg-gradient-to-b from-[#1F2630] to-[#171E28] rounded-3xl p-6"
+        data-testid='popup-1'>
 
             {isSubmit ? (
                 <>
